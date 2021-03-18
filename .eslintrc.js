@@ -3,5 +3,5 @@ module.exports = {
   env: {
     node: true
   },
-  extends: 'digitalbazaar'
+  extends: ['digitalbazaar', 'digitalbazaar/jsdoc']
 };
