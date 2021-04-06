@@ -25,11 +25,14 @@
   "dependencies": {
     "assert-plus": "^1.0.0",
     "bnid": "^2.0.0",
-    "esm": "^3.2.25"
+    "esm": "^3.2.25",
+    "ezcap": "github:digitalbazaar/ezcap#update-deps"
   },
   "peerDependencies": {
     "bedrock": "^4.1.1",
+    "bedrock-app-key": "^1.0.0",
     "bedrock-express": "^3.2.0",
+    "bedrock-https-agent": "^2.0.0",
     "bedrock-mongodb": "^8.2.0"
   },
   "directories": {
